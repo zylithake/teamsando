@@ -26,10 +26,10 @@ There will be a comment with the text "REPLACE "TITLE" WITH BLOG TITLE" on line 
 There will be a comment with the text  "WRITE BLOG POST CONTENT HERE" followed by instructions ending on line 106. You can put your post content between the end of the instructions and the line that reads "DO NOT WRITE PAST HERE"
 
  ##### Text formatting
-To make a section title, put the title between these tags  "<h2>.....content....</h2>"
-To make a paragraph break, type "<br>
+To make a section title, put the title between these tags  /<h2>.....content..../</h2>
+To make a paragraph break, type /<br>
 
- #####To insert an image:
+ #####T o insert an image:
 -if it is hosted online
 Insert it like this "<img src = /"web-address-of-image.com/">
 
