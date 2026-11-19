@@ -29,7 +29,7 @@ There will be a comment with the text  "WRITE BLOG POST CONTENT HERE" followed b
 To make a section title, put the title between these tags  `<h2>  title  </h2>`
 To make a paragraph break, type `<br>`
 
- #####T o insert an image:
+ ##### To insert an image:
 -if it is hosted online
 Insert it like this `<img src = "web-address-of-image.com">`
 
