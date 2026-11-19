@@ -4,13 +4,13 @@
 ## Step 0:
 you're going to want an editor for HTML. I use Notepad++(free) but you can use whatever works for you.
 
-You will also need WinRAR/Something that can unzip .rar files. You do not need to pay for it.
+You will also need WinRAR/Something that can unzip a RAR file with a password. You do not need to pay for it.
 
 ## Step 1: 
 Download blogpost_pack.rar above
 
 ## Step 2:
-Unzip the blogpost_pack.rar. Inside the folder there should be 2 folders named "fonts" and "images" and an HTML file named "blogTemplate.html"
+Unzip the blogpost_pack.rar. It will ask for a password. This is in the website channel of our discord for safety. Inside the folder there should be 2 folders named "fonts" and "images" and an HTML file named "blogTemplate.html"
 
 ## Step 3:
 Open "blogTemplate.html" in a web browser. You should see a blank blog page with our website background/fonts/images all loaded in just like the live one.
